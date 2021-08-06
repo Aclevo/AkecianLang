@@ -2,7 +2,7 @@
 There are many vowels inlcuded in the Aclevian language. To help make it easier to understand, we separate them into versions of vowels.
 
 - a - Short Vowel 
-  - pronounced **A**pple)
+  - pronounced **A**pple
 - á - long vowel
   - Pronounced like the example above, but a longer sound. 
   - You essentially pronounce the sound for a longer interval.

@@ -25,14 +25,11 @@ Unlike with previous versions, past and future tenses and now part of verbs. The
 
 ### Pronoun Declension
 
----
-
-|                | Particle | is   | see  | hear | go
-| I              | -u       | esu  |      |
-| You (Singular) | -i       | esi  |
-| You (Plural)   | -aj      | esaj |
-| We             | -am      | esam |
-| They           | -o       | eso  |
-| He/She         | - or -a  | es   |
-
----
+|                | Particle |  is  |  see  | hear  |  go  |
+| :------------: | :------: | :--: | :---: | :---: | :--: |
+|       I        |    -u    | esu  |       |       |      |
+| You (Singular) |    -i    | esi  |       |       |      |
+|  You (Plural)  |   -aj    | esaj |       |       |      |
+|       We       |   -am    | esam |       |       |      |
+|      They      |    -o    | eso  |       |       |      |
+|     He/She     | - or -a  |  es  |       |       |      |
